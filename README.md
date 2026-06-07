@@ -1,16 +1,14 @@
-## Hi there 👋
+    ## I wire AI agents to forget — so they can focus on what matters.
 
-<!--
-**dovahkiin-v/dovahkiin-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I build memory & context architectures for AI agents: the layer that decides what stays,
+    what gets compressed, and what gets discarded. If your agent loses track of conversations,
+    contradicts itself, or burns through tokens — that's the layer I fix.
 
-Here are some ideas to get you started:
+    **What I've built:**
+    - [Mitos](https://github.com/dovahkiin-v/mitos-first) — Decision tracking for LLM-assisted development
+    - [NoteWeaver](https://github.com/dovahkiin-v/NoteWeaver) — Graph-based knowledge engine, built from scratch
+    - [Letterbox](https://github.com/dovahkiin-v/letterbox/tree/public-release) — IDE-to-IDE messaging for AI coding environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    **Stack:** Python · FastAPI · Qdrant · Neo4j · SQLite · MCP · Gemini & Claude APIs
+
+    📬 vinga@skyforge.sh
