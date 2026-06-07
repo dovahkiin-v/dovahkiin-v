@@ -11,4 +11,5 @@
 
     **Stack:** Python · FastAPI · Qdrant · Neo4j · SQLite · MCP · Gemini & Claude APIs
 
+     Available for freelance work on AI memory/context problems 
     📬 vinga@skyforge.sh
