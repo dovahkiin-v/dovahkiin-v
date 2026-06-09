@@ -1,4 +1,4 @@
-## I wire AI agents to forget — so they can focus on what matters. 🧠✂️
+## I wire AI agents to forget — so they can focus on what matters
 
 I build custom harnesses, loops, memory & context architectures, and tooling for AI agents. My focus is on the layer that decides what stays, what gets compressed, and what gets discarded.
 
