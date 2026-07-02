@@ -1,9 +1,9 @@
-# I build pipelines that direct and guide intelligence
+# I build pipelines that direct and guide intelligence at real work
 
-Agents can call APIs, mutate live systems, touch things that matter.
-My work is everything around that: the context, the tools, the orchestration,
-the guardrails, the review gates, the audit trail — the channels that direct
-intelligence at real work.
+
+An agent is a model with tools. An agent you can let loose on real
+systems is a model with tools, context that holds, review gates,
+guardrails, and an audit trail. I build the second kind.
 
 ---
 
