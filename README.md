@@ -5,6 +5,8 @@ An agent is a model with tools. An agent you can let loose on real
 systems is a model with tools, context that holds, review gates,
 guardrails, and an audit trail. I build the second kind.
 
+🌐 **[skyforge.sh](https://skyforge.sh)** — my site, and a working demo of the above: it's fronted by **Cecil**, a prompt-only AI secretary who knows my public work and answers questions about it. Agents welcome — a guide for visiting agents lives at [skyforge.sh/llms.txt](https://skyforge.sh/llms.txt).
+
 ---
 
 I work terminal-native — designing frameworks, and principles for AI governance, working on product specs,
@@ -31,7 +33,7 @@ and handoff documents at every phase boundary.
 ---
 
 ⚡ **Stack:** Python · MCP servers · Claude Code & Antigravity CLI · Claude / Gemini /
-Mistral APIs · Qdrant · Neo4j · SQLite · FastAPI
+Mistral APIs · Qdrant · SQLite · FastAPI · SvelteKit
 
 ---
 No social presence, I focus on what I do here.
