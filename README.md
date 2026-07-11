@@ -4,8 +4,8 @@
 An agent is a model with tools. An agent you can let loose on real
 systems is a model with tools, context that holds, review gates,
 guardrails, and an audit trail. I build the second kind.
-
-🌐 **[skyforge.sh](https://skyforge.sh)** — my site, and a working demo of the above: it's fronted by **Cecil**, a prompt-only AI secretary who knows my public work and answers questions about it. Agents welcome — a guide for visiting agents lives at [skyforge.sh/llms.txt](https://skyforge.sh/llms.txt).
+;
+🌐 **[skyforge.sh](https://skyforge.sh)** — my site: it's fronted by **Cecil**, a prompt-only AI secretary who knows my public work and answers questions about it. Agents welcome — a guide for visiting agents lives at [skyforge.sh/llms.txt](https://skyforge.sh/llms.txt).
 
 ---
 
